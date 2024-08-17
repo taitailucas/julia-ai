@@ -1,4 +1,4 @@
-# Simplex
+# Simplex - AI
 
 This repository has the implementation of the tableau simplex algorithm made during the Master degree at UFPB.
 
